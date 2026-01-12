@@ -1,4 +1,4 @@
-/*
+package practice_work;/*
 * Write a Java program to reverse a word
 * */
 

@@ -1,11 +1,11 @@
-/*
+package practice_work;/*
 Write a program to design three classes that accept
 dimension of triangle and rectangle and calculate area of
 rectangle and triangle.
 */
 import java.util.Scanner;
 
-// Rectangle class
+// practice_work.Rectangle class
 class Rectangle {
     double length, breadth;
 
@@ -19,11 +19,11 @@ class Rectangle {
 
     void area() {
         double area = length * breadth;
-        System.out.println("Area of Rectangle = " + area);
+        System.out.println("Area of practice_work.Rectangle = " + area);
     }
 }
 
-// Triangle class
+// practice_work.Triangle class
 class Triangle {
     double base, height;
 
@@ -37,7 +37,7 @@ class Triangle {
 
     void area() {
         double area = 0.5 * base * height;
-        System.out.println("Area of Triangle = " + area);
+        System.out.println("Area of practice_work.Triangle = " + area);
     }
 }
 

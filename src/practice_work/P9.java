@@ -1,4 +1,4 @@
-//Write a Java program to display the system time.
+package practice_work;//Write a Java program to display the system time.
 
 import java.util.Date;
 

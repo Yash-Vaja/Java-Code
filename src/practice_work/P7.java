@@ -1,4 +1,4 @@
-/*
+package practice_work;/*
 Write a Java program to print the ascii value of a given
 character.
 */

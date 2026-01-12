@@ -1,3 +1,5 @@
+package practice_work;
+
 import java.util.Scanner;
 
 public class P13 {

@@ -1,4 +1,4 @@
-/*
+package practice_work;/*
  Write a program to input Employee Details and display it on
 proper format. (Employee id, Employee name, Salary,
 Department)

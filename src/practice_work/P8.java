@@ -1,4 +1,4 @@
-/*Write a Java program to capitalize the first letter of each word
+package practice_work;/*Write a Java program to capitalize the first letter of each word
         in a sentence.*/
 
 import java.util.Scanner;

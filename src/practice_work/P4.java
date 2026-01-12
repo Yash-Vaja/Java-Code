@@ -1,4 +1,4 @@
-// Write a Java program to reverse a string
+package practice_work;// Write a Java program to reverse a string
 
 import java.util.*;
 

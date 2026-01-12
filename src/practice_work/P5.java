@@ -1,4 +1,4 @@
-// Write a Java program to print the odd numbers from 1 to 9.
+package practice_work;// Write a Java program to print the odd numbers from 1 to 9.
 // Prints one number per line.
 
 public class P5 {

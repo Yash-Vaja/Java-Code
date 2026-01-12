@@ -1,4 +1,4 @@
-//Write a Java program to print the sum (addition), multiply,
+package practice_work;//Write a Java program to print the sum (addition), multiply,
 //        subtract, divide and remainder of two numbers arithmetic
 //        operation will be of user choice.
 import java.util.*;

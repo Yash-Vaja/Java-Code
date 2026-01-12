@@ -1,4 +1,4 @@
-// Write a Java program to print the sum of two numbers.
+package practice_work;// Write a Java program to print the sum of two numbers.
 import java.util.*;
 
 public class P1 {
